@@ -14,7 +14,7 @@
 			'onMailChimpError': function() {},
 			'responseClass': 'mc-response',
 			'successMessage': '',				
-			'url': actionUrl,						
+			'url': actionUrl,												
 		};
 		var originalButtonText = defaults.buttonSelector.text();
 		var $responseContainer;
