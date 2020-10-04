@@ -10,7 +10,7 @@
 			'buttonText': '', 						
 			'debug': false, 						
 			'errorMessage': '',											
-			'onMailChimpSuccess': function() {},	
+			'onMailChimpSuccess': function() {},
 			'onMailChimpError': function() {},		
 			'responseClass': 'mc-response',			
 			'successMessage': '',					
