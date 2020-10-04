@@ -1,13 +1,3 @@
-/*  ==========================================================================
-
-	jQuery FormChimp - v1.2.2
-	A customizable MailChimp ajax plugin for jQuery
-	Fabio Quarantini - @febba
-	http://www.fabioquarantini.com/formchimp/
-
-	==========================================================================  */
-
-
 (function($, window, document, undefined) {
 	$.fn.formchimp = function(settings) {
 		var $form = $(this);
