@@ -13,7 +13,7 @@
 			'onMailChimpSuccess': function() {},
 			'onMailChimpError': function() {},
 			'responseClass': 'mc-response',
-			'successMessage': '',					
+			'successMessage': '',				
 			'url': actionUrl,						
 		};
 		var originalButtonText = defaults.buttonSelector.text();
