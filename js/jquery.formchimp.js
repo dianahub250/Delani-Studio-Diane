@@ -12,7 +12,7 @@
 			'errorMessage': '',											
 			'onMailChimpSuccess': function() {},
 			'onMailChimpError': function() {},
-			'responseClass': 'mc-response',			
+			'responseClass': 'mc-response',
 			'successMessage': '',					
 			'url': actionUrl,						
 		};
