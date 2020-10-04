@@ -9,7 +9,7 @@
 			'buttonSelector': $button,				
 			'buttonText': '', 						
 			'debug': false, 						
-			'errorMessage': '',						
+			'errorMessage': '',											
 			'onMailChimpSuccess': function() {},	
 			'onMailChimpError': function() {},		
 			'responseClass': 'mc-response',			
