@@ -11,7 +11,7 @@
 			'debug': false, 						
 			'errorMessage': '',											
 			'onMailChimpSuccess': function() {},
-			'onMailChimpError': function() {},		
+			'onMailChimpError': function() {},
 			'responseClass': 'mc-response',			
 			'successMessage': '',					
 			'url': actionUrl,						
